@@ -5,6 +5,7 @@ Begin
 Continue
 繼續
 
+##User profile
 Profile
 用户資料
 
@@ -12,9 +13,11 @@ Profile
 Settings
 設置選項
 
+## Video options menu
 Video
 視頻選項
 
+## Audio options menu
 Audio
 音頻選項
 
@@ -25,12 +28,14 @@ Save & Quit
 Back
 返回
 
+##User interface scale
 UI Scale
 用户界面大小
 
 Fullscreen
 全屏
 
+##Options for snowfall graphic effect 
 Snowfall
 雪
 
@@ -64,6 +69,7 @@ Medium
 Maximum
 最高
 
+## Snowfall only in background, not in faoreground
 Background only
 僅限背景
 
@@ -74,6 +80,7 @@ On
 Off
 關
 
+##Select language
 Language
 語言
 
@@ -100,6 +107,7 @@ Decrease Code Execution Rate
 Increase Code Execution Rate
 提高代碼執行率
 
+##"Approach" here means ...
 Load / Save new approach
 加載/保存新方法
 
@@ -116,6 +124,7 @@ Run (paused)
 執行（暫停）
 
 #### code navigation when paused/debugging
+##Step to next command (next line)
 Step over
 下一個命令
 
@@ -128,6 +137,7 @@ Pause
 暫停
 
 #### code navigation when paused/debugging
+##Step to next action (sometimes the same command)
 Step forward
 下一步
 
@@ -147,9 +157,11 @@ Confirm delete
 Type commands here
 在此輸入命令
 
+##Add the commands:/add this:
 Add the lines:
 添加：
 
+##Run as in run code, play as in the ► button
 Press play to run
 按播放即可執行
 
@@ -191,21 +203,27 @@ Scroll with mouse wheel,\nalt ↑/↓, alt pageup/pagedown
 Click to view all recovered messages
 按此處查看所有已找到的消息
 
+##Appears when the level has been completed but not using the latest functionality - `loop`
 Try using `loop` in your solution
 修改解決方案使用`loop`的命令吧
 
+##Appears when the level has been completed but not using the latest functionality - `else` and something like `>`, `<`.
 Try using `else` and \na comparison like `>`
 修改解決方案使用`else`和嚴格不等號，如：`>`
 
+##Two chapters: "Comparison" and "Conditions III" show examples of usage.
 Read Comparison and Conditions III to see `>` and `else` usage
 閲讀《Comparison》和《Conditions III》，看嚴格不等號（如：`>`）和`else`的例子
 
+##Appears when the level has been completed but not using functionality like `>`, `<`.
 Try using a comparison like `>`
 使用嚴格不等號吧（如：`>`）
 
+##Appears when the level has been completed but not using the `else` functionality.
 Try using `else`
 使用`else`吧
 
+##Starts the code but pauses before the first action is carried out.
 Press to run with execution paused
 按此處執行並在第一命令暫停
 
@@ -219,9 +237,11 @@ Press, or use keyboard →, to step forward to the next evaluation
 Level solutions can be\nsaved and loaded here
 此處可以保存和加載等級的解決方案
 
+##There are three categories, speed, solution size and run size.
 The best scoring code in each\ncategory is automatically saved
 每個類別中最好評分的解決方案就自動保存
 
+##A specific tile has been revealed or highlighted as the destination
 Reach the revealed location
 到達顯示的地方
 
